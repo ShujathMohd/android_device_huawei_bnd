@@ -16,7 +16,7 @@
 # inherit from common hi6250-common
 -include device/huawei/hi6250-common/BoardConfigCommon.mk
 
-DEVICE_PATH := device/huawei/anne
+DEVICE_PATH := device/huawei/bnd
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := anne,hi6250
+TARGET_OTA_ASSERT_DEVICE := bnd,hi6250
